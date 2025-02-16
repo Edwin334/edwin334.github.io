@@ -5,11 +5,11 @@ permalink: /
 subtitle: ph2239[at]nyu[dot]edu 
 Afflication: <a href='https://cds.nyu.edu/'>NYU Center for Data Science</a>. 
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: some captions
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: some captions
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
